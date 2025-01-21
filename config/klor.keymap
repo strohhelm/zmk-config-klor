@@ -28,10 +28,8 @@
 #define ADJUST 3
 
 &led_strip {
-    chain-length = <21>;
-
+    chain-length = <21>;};
 &out OUT_BLE;
-};
 / {
     behaviors {
         hm: homerow_mods {
