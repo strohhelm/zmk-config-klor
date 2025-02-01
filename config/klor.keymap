@@ -125,7 +125,7 @@ label= "RAISE"                                                 ;
  bindings = <
  //╷         ╷         ╷         ╷         ╷         ╷         ╷         ╷╷         ╷         ╷         ╷         ╷         ╷         ╷         ╷
               &trans    &trans    &trans    &trans    &trans                         &trans    &trans    &trans    &trans    &trans     
-    &trans    &kp RA(A) kp RA(O) &kp RA(U)  &kp RA(S) &trans                         &trans    &trans    &trans    &trans    &trans    &trans  
+    &trans    &kp RA(A) &kp RA(O) &kp RA(U)  &kp RA(S) &trans                         &trans    &trans    &trans    &trans    &trans    &trans  
     &trans    &trans    &trans    &trans    &trans    &trans    &trans     &trans    &trans    &trans    &trans    &trans    &trans    &trans
                                   &mo ADJUST &trans   &trans    &trans     &trans    &trans    &trans    &trans  
                         >;
