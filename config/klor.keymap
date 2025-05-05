@@ -100,7 +100,7 @@ label= "LOWER"                                                 ;
  //╷         ╷         ╷         ╷         ╷         ╷         ╷         ╷╷         ╷         ╷         ╷         ╷         ╷         ╷         ╷
     &ext_power EP_TOG   &kp EXCL    &kp UP    &kp QMARK    &kp LBRC                       &kp RBRC &kp  N7 &kp  N8 &kp  N9 &kp KP_PLUS
     &none  &rgb_ug RGB_EFF    &kp LEFT  &kp DOWN  &kp RIGHT &kp LBKT                       &kp RBKT  &kp    N4 &kp    N5 &kp N6 &kp KP_MINUS &kp UNDER
-    &none    &none    &kp PG_UP &kp CAPS  &kp PG_DN &kp LPAR  &none     &none    &kp RPAR  &kp N1    &kp    N2 &kp    N3 &kp KP_MULTIPLY & kp TILDE
+    &none    &none    &kp PG_UP &kp CAPS  &kp PG_DN &kp LPAR  &none     &none    &kp RPAR  &kp N1    &kp    N2 &kp    N3 &kp KP_MULTIPLY &kp TILDE
                                   &none    &none    &none    &none     &none    &kp DELETE &trans &kp N0  
                         >;
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
